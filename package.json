@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-game",
+  "name": "@bwhmather/cordova-plugin-game",
   "version": "1.0.120",
   "description": "show leaderboard and achievements (google play game and game center, SDK)",
   "cordova": {
@@ -34,5 +34,5 @@
   "bugs": {
     "url": "https://github.com/cranberrygame/cordova-plugin-game/issues"
   },
-  "homepage": "https://github.com/cranberrygame/cordova-plugin-game#readme"
+  "homepage": "https://github.com/bwhmather/cordova-plugin-game"
 }
